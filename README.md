@@ -1,4 +1,14 @@
+# DESCRIPTION
+This configuration provides:
+- Cool Catppuccin colorscheme (https://github.com/catppuccin/nvim)
+- Auto-completions
+- LSP (Language Server Protocol) for C/C++, Lua & Javascript (but you can add your own)
+- A file explorer (https://github.com/nvim-neo-tree/neo-tree.nvim)
+- An amazing fuzzy finder (https://github.com/nvim-telescope/telescope.nvim)
+
 # INSTALLATION
+**Make sure you have a nerd font  installed, like *JetBrainsMono Nerd Font***
+
 To install the config, simply:
 ```bash
 rm -rf .local/share/nvim
