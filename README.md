@@ -3,6 +3,7 @@ This configuration provides:
 - All NVChad features
 - Auto-completions
 - LSP (Language Server Protocol) for C/C++ and Lua (but you can add your own)
+- A CMake embedded tool
 
 # INSTALLATION
 **Make sure you have a nerd font  installed, like *JetBrainsMono Nerd Font***
